@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Na\\KiemThuPhanMem\\44_KhuongThanhTam_WebsiteTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{913F0D23-3549-4FF3-94AD-749786A74BB8}|44_KhuongThanhTam_WebsiteTest\\44_KhuongThanhTam_WebsiteTest.csproj|d:\\na\\kiemthuphanmem\\44_khuongthanhtam_websitetest\\44_khuongthanhtam_websitetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F0D23-3549-4FF3-94AD-749786A74BB8}|44_KhuongThanhTam_WebsiteTest\\44_KhuongThanhTam_WebsiteTest.csproj|solutionrelative:44_khuongthanhtam_websitetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Na\\KiemThuPhanMem\\44_KhuongThanhTam_WebsiteTest\\44_KhuongThanhTam_WebsiteTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "44_KhuongThanhTam_WebsiteTest\\UnitTest1.cs",
+              "ToolTip": "D:\\Na\\KiemThuPhanMem\\44_KhuongThanhTam_WebsiteTest\\44_KhuongThanhTam_WebsiteTest\\UnitTest1.cs",
+              "RelativeToolTip": "44_KhuongThanhTam_WebsiteTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T08:34:29.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
